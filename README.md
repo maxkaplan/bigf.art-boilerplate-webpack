@@ -74,8 +74,6 @@ This is how Generative bigFunctions work on bigFhash:
 * when a collector will mint its unique bigFunction from your Generative bigFunction, a random hash will be hard-coded in the **bigFhash code snippet**
 * the bigFunction will now have its own `index.html` file, with a **static** hash, ensuring its immutability
 
-The [Guide to mint a Generative bigFunction](https://bigFhash.xyz/articles/guide-mint-generative-bigFunction) give in-depth details about this process.
-
 
 # Publish your bigFunction
 
